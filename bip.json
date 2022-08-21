@@ -1,1 +1,7 @@
-{"Name":"Aucun","Vl":"Aucune","Informations":"Aucune","Adresse":"Aucune","Whitelist":["test","test"]}
+{"Name":"Aucun",
+ "Vl":"Aucune",
+ "Informations":"Aucune",
+ "Adresse":"Aucune",
+ "Whitelist":["test","test"],
+ "Sound": false
+}
