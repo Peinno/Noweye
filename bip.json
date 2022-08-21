@@ -3,5 +3,5 @@
   "Vl": "Aucune",
   "Informations": "",
   "Adresse": "Aucune",
-  "Whitelist": "Peinno", "EXEMPLE",
+  "Whitelist": ["Peinno", "EXEMPLE"]
 }
