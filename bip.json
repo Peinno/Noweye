@@ -4,5 +4,5 @@
  "Informations":"Aucune",
  "Adresse":"Aucune",
  "Whitelist":["test","test"],
- "Sound": false
+ "Sound": true
 }
