@@ -1,10 +1,1 @@
-{
-  "Name": "Aucun",
-  "Vl": "Aucune",
-  "Informations": "Aucune",
-  "Adresse": "Aucune",
-  "Whitelist": [
-    "Exemple",
-    "Test"
-  ],
-}
+{"Name":"Aucun","Vl":"Aucune","Informations":"Aucune","Adresse":"Aucune","Whitelist":["test","test"]}
