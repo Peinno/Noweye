@@ -3,5 +3,8 @@
   "Vl": "Aucune",
   "Informations": "",
   "Adresse": "Aucune",
-  "Whitelist": ["Peinno", "EXEMPLE"]
+  "Whitelist": [
+    "Exemple",
+    "Test"
+  ]
 }
