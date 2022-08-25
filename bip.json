@@ -3,6 +3,6 @@
  "Vl":"Aucune",
  "Informations":"Aucune",
  "Adresse":"Aucune",
- "Whitelist":["Peinno","test"],
- "Sound": "false"
+ "Whitelist":["Peinno"],
+ "Sound": "true"
 }
