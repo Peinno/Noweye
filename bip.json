@@ -1,8 +1,8 @@
 {
- "Name":"Aucun",
- "Vl":"Aucune",
- "Informations":"Aucune",
- "Adresse":"Aucune",
+ "Name":"Name",
+ "Vl":"Car",
+ "Informations":"Info",
+ "Adresse":"Adresse",
  "Whitelist":["Peinno"],
- "Sound": "false"
+ "Sound": "true"
 }
